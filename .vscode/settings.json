@@ -1,0 +1,12 @@
+{
+    "python.linting.enabled": true,
+    "json.schemas": [
+    
+    ]
+    
+    "editor.tokenColorCustomizations": {
+        "comments": "#EFDC05"  
+    },
+
+}
+
